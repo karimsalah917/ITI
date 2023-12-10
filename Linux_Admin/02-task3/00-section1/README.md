@@ -12,6 +12,7 @@ Here is how the script works
 
 ![Screenshot from 2023-12-10 22-48-41](https://github.com/karimsalah917/ITI-Embedded_linux/assets/85436601/932dcc4d-60da-4995-9bfe-3c9f4dd6e2eb)
 
-#####################################################################################################################
+######################################################################################
+
 Outcomes i had
 [1] How to check a file existance  --> by making a variables and assign the path of the file you wanna find to it this check the file be if condition and add the option " -f " to check for a file
